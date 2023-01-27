@@ -2,6 +2,7 @@
 # Jackpot Banner API
 
 123
+123
 
 This information is for Evolution’s operators and affiliates on how to integrate the Jackpot value into websites and
 banners. This information is targeted at technical teams and developers.
